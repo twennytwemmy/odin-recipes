@@ -10,6 +10,6 @@ Embedding links in text to navigate between my HTML pages
 
 Using unordered and ordered lists
 
-Using <p> tags to write paragraphs describing each recipe
+Using the p tags to write paragraphs describing each recipe
 
 I can confidently say that this project gave me valuable experience. Repeated practice with the HTML boilerplate and common syntax helped me better understand how elements relate to each other, especially the parent-child relationships in HTML structure.
