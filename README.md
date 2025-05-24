@@ -1,4 +1,4 @@
-This project is about testing my knowledge that i have attained over past few lessons on html and put them into practice over a simple project
+This project is about testing my knowledge that i have gained over past few lessons on html and put them into practice over a simple project
 
 The project is to create a basic recipe website with links redirecting to different pages that contain their own recipe details and instructions.
 
